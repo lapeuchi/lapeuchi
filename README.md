@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[깃허브 페이지](https::/lapeuchi.github.io)
+[깃허브 페이지](https://lapeuchi.github.io)
 
 <!--
 **lapeuchi/lapeuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
