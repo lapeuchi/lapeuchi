@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 [깃허브 페이지](https://lapeuchi.github.io)
 
